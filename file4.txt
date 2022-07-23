@@ -1,3 +1,4 @@
 this is file 4
 modified by branch 4 adding a
+newline and a dash
 #
